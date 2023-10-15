@@ -32,7 +32,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/RomLayVN/KFD/main/Tweaks/AssistiveTouch/com.phucreym.nut-home-ao.misaka",
+                    "Package": "https://github.com/RomLayVN/KFD/raw/7fbf3848e7073eeafd7197790fcec83e8bd9447b/Tweaks/AssistiveTouch/com.phucreym.nut-home-ao.misaka",
                     "Description": "New Release"
                 }
             ],
@@ -53,7 +53,7 @@
         "Releases": [
             {
                 "Version": "2.0",
-                "Package": "https://github.com/RomLayVN/KFD/main/Tweaks/AssistiveTouch/AssitiveTouch v2.misaka",
+                "Package": "https://github.com/RomLayVN/KFD/raw/079c81f3aaa5788fafc42f715169ec824b2d03de/Tweaks/AssistiveTouch/AssitiveTouch%20v2.misaka",
                 "Description": "New Release"
             }
         ],
