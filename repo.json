@@ -1,13 +1,13 @@
 {
-    "RepositoryName": "RomLayVN",
-    "RepositoryDescription": "266x153",
-    "RepositoryAuthor": "tdquang",
+    "RepositoryName": "RomLayVN Repository",
+    "RepositoryDescription": "Tweak KFD",
+    "RepositoryAuthor": "RomLayVN",
     "RepositoryIcon": "https://raw.githubusercontent.com/RomLayVN/KFD/main/Assets/repo-image-up.png",
     "RepositoryWebsite": "https://github.com/RomLayVN/KFD",
     "Default": {
         "HeaderImage": "https://raw.githubusercontent.com/RomLayVN/KFD/main/Assets/banner-up.jpg",
         "Author": {
-            "Label": "RomLay",
+            "Label": "RomLayRomLayVN",
             "Links": [
                 {
                     "Label": "Twitter",
