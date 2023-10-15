@@ -2,10 +2,10 @@
     "RepositoryName": "RomLayVN Repository",
     "RepositoryDescription": "Tweak KFD",
     "RepositoryAuthor": "RomLayVN",
-    "RepositoryIcon": "https://raw.githubusercontent.com/RomLayVN/KFD/main/Assets/repo-image-up.png",
+    "RepositoryIcon": "https://github.com/RomLayVN/KFD/blob/main/Assets/repo-image-up.png",
     "RepositoryWebsite": "https://github.com/RomLayVN/KFD",
     "Default": {
-        "HeaderImage": "https://raw.githubusercontent.com/RomLayVN/KFD/main/Assets/banner-up.jpg",
+        "HeaderImage": "https://github.com/RomLayVN/KFD/blob/main/Assets/baner-up.jpg",
         "Author": {
             "Label": "RomLayRomLayVN",
             "Links": [
