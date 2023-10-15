@@ -2,10 +2,10 @@
     "RepositoryName": "RomLayVN Repository",
     "RepositoryDescription": "Tweak KFD",
     "RepositoryAuthor": "RomLayVN",
-    "RepositoryIcon": "https://github.com/RomLayVN/KFD/blob/main/Assets/repo-image-up.png",
+    "RepositoryIcon": "https://github.com/RomLayVN/KFD/raw/main/Assets/repo-image-up.png",
     "RepositoryWebsite": "https://github.com/RomLayVN/KFD",
     "Default": {
-        "HeaderImage": "https://github.com/RomLayVN/KFD/blob/main/Assets/baner-up.jpg",
+        "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Assets/baner-up.jpg",
         "Author": {
             "Label": "RomLayRomLayVN",
             "Links": [
@@ -57,7 +57,24 @@
                 "Description": "New Release"
             }
         ],
-        "PackageID": "com.romlayvn.AssistiveTouchV2"}
+        "PackageID": "com.romlayvn.AssistiveTouchV2"},
+        {
+        "Name": "Control Center",
+        "Description": "New ControlCenter",
+        "Category": "Control Center v1",
+        "Caption": "Replace boring default Apple icons in Control Center",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6b1",
+        "Icon": " ",
+        "Screenshot": [ ],
+        "Releases": [
+            {"Version": "1.0",
+             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ControlCenter/com.reym.Fontboard.misaka",
+             "Description": "New ControlCenter"
+            }
+        ],
+        "PackageID": "com.romlayvn.ControlCenterV1"
+        }
 
         
     ]
