@@ -38,13 +38,14 @@
             ],
             "PackageID": "com.romlayvn.AssistiveTouch"
         }
+        
         {
             "Name": "AssistiveTouch V2",
             "Description": "Give Assistive Touch a new look",
             "Category": "Assistive Touch v2",
             "Caption": "Replace boring default Apple icons in Assistive Touch",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "17.0",
+            "MaxIOSVersion": "16.6b1",
             "Icon": " ",
             "Screenshot": [
 
@@ -56,7 +57,7 @@
                     "Description": "New Release"
                 }
             ],
-            "PackageID": "com.romlayvn.AssistiveTouch"
+            "PackageID": "com.romlayvn.AssistiveTouchV2"
         }
     ]
 }
