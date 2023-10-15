@@ -37,7 +37,29 @@
                 }
             ],
             "PackageID": "com.romlayvn.AssistiveTouch"
-        }
+        },
+        
+        {            
+        "Name": "AssistiveTouch V2",
+        "Description": "Give Assistive Touch a new look",
+        "Category": "Assistive Touch v2",
+        "Caption": "Replace boring default Apple icons in Assistive Touch",
+        "MinIOSVersion": "15.0",
+        "MaxIOSVersion": "16.6b1",
+        "Icon": " ",
+        "Screenshot": [
 
+        ],
+        "Releases": [
+            {
+                "Version": "2.0",
+                "Package": "https://github.com/RomLayVN/KFD/main/Tweaks/AssistiveTouch/AssitiveTouch v2.misaka",
+                "Description": "New Release"
+            }
+        ],
+        "PackageID": "com.romlayvn.AssistiveTouchV2"}
+
+        
     ]
 }
+
