@@ -69,7 +69,7 @@
         "Screenshot": [ ],
         "Releases": [
             {"Version": "1.0",
-             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ControlCenter/com.reym.Fontboard.misaka",
+             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ControlCenter/com.phucreyme.controlcentui.misaka",
              "Description": "New ControlCenter"
             }
         ],
