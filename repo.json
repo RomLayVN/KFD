@@ -20,6 +20,9 @@
     "RepositoryContents": [
         {
             "Name": "FontBoar",
+            "Author":{
+                "Label":"PhucRyme,Romlay"
+            },
             "Description": "Font Manager",
             "Category": "Font Manager",
             "Caption": "Change font options",
@@ -42,6 +45,9 @@
         
         {            
         "Name": "AssistiveTouch V2",
+        "Author":{
+            "Label":"PhucRyme,Romlay"
+        },
         "Description": "Give Assistive Touch a new look",
         "Category": "Assistive Touch v2",
         "Caption": "Replace boring default Apple icons in Assistive Touch",
@@ -62,6 +68,9 @@
         "PackageID": "com.romlayvn.AssistiveTouchV2"},
         {
         "Name": "Control Center",
+        "Author":{
+            "Label":"PhucRyme,Romlay"
+        },
         "Description": "New ControlCenter",
         "Category": "Control Center v1",
         "Caption": "Replace boring default Apple icons in Control Center",
