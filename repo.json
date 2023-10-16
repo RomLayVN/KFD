@@ -26,7 +26,7 @@
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "17.0",
             "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/keyboard.png",
-            "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/banner.gif",
+            "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
             "Screenshot": [
 
             ],
@@ -48,7 +48,7 @@
         "MinIOSVersion": "15.0",
         "MaxIOSVersion": "16.6b1",
         "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/setting.png",
-        "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/banner.gif",
+        "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
         "Screenshot": [
 
         ],
@@ -68,7 +68,7 @@
         "MinIOSVersion": "15.0",
         "MaxIOSVersion": "16.6b1",
         "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/cc.png",
-        "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/banner.gif",
+        "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
         "Screenshot": [ ],
         "Releases": [
             {"Version": "1.0",
