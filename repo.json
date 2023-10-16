@@ -65,7 +65,8 @@
                 "Description": "New Release"
             }
         ],
-        "PackageID": "com.romlayvn.AssistiveTouch"},
+        "PackageID": "com.romlayvn.AssistiveTouch"
+        },
         {
         "Name": "LSUI 14-16",
         "Author":{
@@ -81,13 +82,33 @@
         "Screenshot": [ ],
         "Releases": [
             {"Version": "1.0",
-             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI 14-16/com.reym.lsui 2.misaka",
+             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.reym.lsui%202.misaka",
              "Description": "New LockScreen UI"
             }
         ],
         "PackageID": "com.romlayvn.LSUI14-16"
+        },
+        {
+            "Name": "PassCode",
+            "Author" :{
+                "label":"Ryem,Romlay"
+            },
+            "Description": "Change Passcode",
+            "Category":"PassCode",
+            "Caption":"Change Passcode Name",
+            "MinIOSVersion":"14.0",
+            "MaxIOSVersion":"16.6b1",
+            "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/lock.png",
+            "HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+            "Screenshot":[ ],
+            "Releases":[
+                {"Version":"2.0",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/mainTweaks/Passcode/com.ryem.pass.misaka",
+                 "Description":"New Change Passcode"
+                }
+            ],
+            "PackageID":"com.romlayvn.Passcode"
         }
-
         
     ]
 }
