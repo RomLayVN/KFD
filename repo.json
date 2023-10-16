@@ -73,7 +73,7 @@
         },
         "Description": "Change Camera and Flash",
         "Category": " LSUI 14-16",
-        "Caption": "Change passcode",
+        "Caption": "Change Camera and Flash",
         "MinIOSVersion": "14.0",
         "MaxIOSVersion": "16.6b1",
         "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/lsui2.png",
