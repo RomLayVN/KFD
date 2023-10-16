@@ -19,10 +19,10 @@
     },
     "RepositoryContents": [
         {
-            "Name": "AssistiveTouch",
-            "Description": "Give Assistive Touch a new look",
-            "Category": "Assistive Touch",
-            "Caption": "Replace boring default Apple icons in Assistive Touch",
+            "Name": "FontBoar",
+            "Description": "Font Manager",
+            "Category": "Font Manager",
+            "Caption": "Change font options",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "17.0",
             "Icon": " ",
@@ -32,11 +32,11 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/RomLayVN/KFD/raw/7fbf3848e7073eeafd7197790fcec83e8bd9447b/Tweaks/AssistiveTouch/com.phucreym.nut-home-ao.misaka",
+                    "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ControlCenter/com.reym.Fontboard.misaka",
                     "Description": "New Release"
                 }
             ],
-            "PackageID": "com.romlayvn.AssistiveTouch"
+            "PackageID": "com.romlayvn.fontmanager"
         },
         
         {            
