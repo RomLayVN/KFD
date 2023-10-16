@@ -89,25 +89,25 @@
         "PackageID": "com.romlayvn.LSUI14-16"
         },
         {
-            "Name": "PassCode",
-            "Author" :{
-                "label":"Ryem,Romlay"
-            },
-            "Description": "Change Passcode",
-            "Category":"PassCode",
-            "Caption":"Change Passcode Name",
-            "MinIOSVersion":"14.0",
-            "MaxIOSVersion":"16.6b1",
-            "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/lock.png",
-            "HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-            "Screenshot":[ ],
-            "Releases":[
-                {"Version":"2.0",
-                 "Package": "https://github.com/RomLayVN/KFD/raw/mainTweaks/Passcode/com.ryem.pass.misaka",
-                 "Description":"New Change Passcode"
-                }
-            ],
-            "PackageID":"com.romlayvn.Passcode"
+        "Name": "PassCode",
+        "Author":{
+            "Label":"Ryem,Romlay"
+        },
+        "Description": "Change Passcode",
+        "Category":"PassCode",
+        "Caption":"Change Passcode Name",
+        "MinIOSVersion":"14.0",
+        "MaxIOSVersion":"16.6b1",
+        "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/lock.png",
+        "HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+        "Screenshot":[ ],
+        "Releases":[
+            {"Version":"2.0",
+             "Package": "https://github.com/RomLayVN/KFD/raw/mainTweaks/Passcode/com.ryem.pass.misaka",
+             "Description":"New Change Passcode"
+            }
+        ],
+        "PackageID":"com.romlayvn.Passcode"
         }
         
     ]
