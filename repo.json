@@ -19,16 +19,16 @@
     },
     "RepositoryContents": [
         {
-            "Name": "FontBoar",
+            "Name": "Fonts Board",
             "Author":{
-                "Label":"PhucRyme,Romlay"
+                "Label":"Ryem, Romlay."
             },
-            "Description": "Font Manager",
-            "Category": "Font Manager",
+            "Description": "Fonts Board",
+            "Category": "Fonts Board",
             "Caption": "Change font options",
-            "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "17.0",
-            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/keyboard.png",
+            "MinIOSVersion": "14.0",
+            "MaxIOSVersion": "16.6b1",
+            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/keyboard2.jpg",
             "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
             "Screenshot": [
 
@@ -40,20 +40,20 @@
                     "Description": "New Release"
                 }
             ],
-            "PackageID": "com.romlayvn.fontmanager"
+            "PackageID": "com.romlayvn.FontsBoard"
         },
         
         {            
-        "Name": "AssistiveTouch V2",
+        "Name": "Assistive Touch ",
         "Author":{
-            "Label":"PhucRyme,Romlay"
+            "Label":"Ryem, Romlay."
         },
         "Description": "Give Assistive Touch a new look",
-        "Category": "Assistive Touch v2",
+        "Category": "Assistive Touch",
         "Caption": "Replace boring default Apple icons in Assistive Touch",
-        "MinIOSVersion": "15.0",
+        "MinIOSVersion": "14.0",
         "MaxIOSVersion": "16.6b1",
-        "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/setting.png",
+        "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/ass.jpg",
         "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
         "Screenshot": [
 
@@ -61,31 +61,31 @@
         "Releases": [
             {
                 "Version": "2.0",
-                "Package": "https://github.com/RomLayVN/KFD/raw/079c81f3aaa5788fafc42f715169ec824b2d03de/Tweaks/AssistiveTouch/AssitiveTouch%20v2.misaka",
+                "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/AssistiveTouch/com.phucreym.nut-home-ao.misaka",
                 "Description": "New Release"
             }
         ],
-        "PackageID": "com.romlayvn.AssistiveTouchV2"},
+        "PackageID": "com.romlayvn.AssistiveTouch"},
         {
-        "Name": "Control Center",
+        "Name": "LSUI 14-16",
         "Author":{
-            "Label":"PhucRyme,Romlay"
+            "Label":"Ryem,Romlay"
         },
-        "Description": "New ControlCenter",
-        "Category": "Control Center v1",
-        "Caption": "Replace boring default Apple icons in Control Center",
-        "MinIOSVersion": "15.0",
+        "Description": "Change Camera and Flash",
+        "Category": " LSUI 14-16",
+        "Caption": "Change passcode",
+        "MinIOSVersion": "14.0",
         "MaxIOSVersion": "16.6b1",
         "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/cc.png",
         "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
         "Screenshot": [ ],
         "Releases": [
             {"Version": "1.0",
-             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ControlCenter/com.phucreyme.controlcentui.misaka",
-             "Description": "New ControlCenter"
+             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI 14-16/com.reym.lsui 2.misaka",
+             "Description": "New LockScreen UI"
             }
         ],
-        "PackageID": "com.romlayvn.ControlCenterV1"
+        "PackageID": "com.romlayvn.LSUI14-16"
         }
 
         
