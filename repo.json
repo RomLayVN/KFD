@@ -25,7 +25,7 @@
             "Caption": "Change font options",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "17.0",
-            "Icon": " ",
+            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/keyboard.png",
             "Screenshot": [
 
             ],
@@ -46,7 +46,7 @@
         "Caption": "Replace boring default Apple icons in Assistive Touch",
         "MinIOSVersion": "15.0",
         "MaxIOSVersion": "16.6b1",
-        "Icon": " ",
+        "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/setting.png",
         "Screenshot": [
 
         ],
@@ -65,7 +65,7 @@
         "Caption": "Replace boring default Apple icons in Control Center",
         "MinIOSVersion": "15.0",
         "MaxIOSVersion": "16.6b1",
-        "Icon": " ",
+        "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/cc.png",
         "Screenshot": [ ],
         "Releases": [
             {"Version": "1.0",
