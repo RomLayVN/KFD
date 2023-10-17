@@ -42,7 +42,6 @@
             ],
             "PackageID": "com.romlayvn.FontsBoard"
         },
-        
         {            
         "Name": "Assistive Touch ",
         "Author":{
@@ -53,12 +52,13 @@
         "Caption": "Replace boring default Apple icons in Assistive Touch",
         "MinIOSVersion": "14.0",
         "MaxIOSVersion": "16.6b1",
-        "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/ass.jpg",
-        "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-        "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass1.jpg","https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass2.jpg", "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass3.jpg",
-
+        "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/ass.jpg",
+        "HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+        "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass1.jpg",
+                    "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass2.jpg",
+                    "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass3.jpg"
         ],
-        "Releases": [
+        "Releases":[
             {
                 "Version": "2.0",
                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/AssistiveTouch/com.phucreym.nut-home-ao.misaka",
@@ -68,7 +68,7 @@
         "PackageID": "com.romlayvn.AssistiveTouch"
         },
         {
-        "Name": "LSUI 14-16",
+        "Name": "LSUI 15",
         "Author":{
             "Label":"Reym,Romlay"
         },
@@ -82,11 +82,32 @@
         "Screenshot": [ ],
         "Releases": [
             {"Version": "1.0",
-             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.reym.lsui%202.misaka",
+             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.reym.LSUI15.misaka",
              "Description": "New LockScreen UI"
             }
         ],
-        "PackageID": "com.romlayvn.LSUI14-16"
+        "PackageID": "com.romlayvn.LSUI15"
+        },
+        {
+        "Name": "LSUI 16",
+        "Author":{
+                "Label":"Reym,Romlay"
+            },
+        "Description": "Change Camera and Flash",
+        "Category": " LSUI 14-16",
+        "Caption": "Change Camera and Flash",
+        "MinIOSVersion": "14.0",
+        "MaxIOSVersion": "16.6b1",
+        "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/lsui2.png",
+        "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+        "Screenshot": [ ],
+        "Releases": [
+            {"Version": "1.0",
+             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.reym.lsui16.misaka",
+             "Description": "New LockScreen UI"
+                }
+            ],
+        "PackageID": "com.romlayvn.LSUI16"    
         },
         {
         "Name": "PassCode",
