@@ -103,7 +103,7 @@
         "Screenshot": [ ],
         "Releases": [
             {"Version": "1.0",
-             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.romlayvn.lsui16.misaka",
+             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.ronlayvn.lsui16.misaka",
              "Description": "New LockScreen UI"
                 }
             ],
