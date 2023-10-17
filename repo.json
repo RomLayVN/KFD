@@ -94,7 +94,7 @@
                 "Label":"Reym,Romlay"
             },
         "Description": "Change Camera and Flash",
-        "Category": " LSUI 14-16",
+        "Category": " LSUI 16",
         "Caption": "Change Camera and Flash",
         "MinIOSVersion": "14.0",
         "MaxIOSVersion": "16.6b1",
@@ -103,7 +103,7 @@
         "Screenshot": [ ],
         "Releases": [
             {"Version": "1.0",
-             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.ronlayvn.lsui16.misaka",
+             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.romlayvn.lsui16.misaka",
              "Description": "New LockScreen UI"
                 }
             ],
