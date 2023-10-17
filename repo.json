@@ -31,8 +31,8 @@
             "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/keyboard2.jpg",
             "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
             "Screenshot": [
-
-            ],
+                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/board1.jpeg",
+                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/board2.jpeg"],
             "Releases": [
                 {
                     "Version": "1.0",
@@ -79,7 +79,7 @@
         "MaxIOSVersion": "16.6b1",
         "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/lsui2.png",
         "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-        "Screenshot": [ ],
+        "Screenshot": [ "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.romlayvn.lsui16.misaka"],
         "Releases": [
             {"Version": "1.0",
              "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.romlayvn.LSUI15.misaka",
