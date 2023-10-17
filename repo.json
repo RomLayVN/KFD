@@ -55,7 +55,7 @@
         "MaxIOSVersion": "16.6b1",
         "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/ass.jpg",
         "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-        "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass1.jpg", "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass2.jpg", "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass3.jpg",
+        "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass1.jpg","https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass2.jpg", "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass3.jpg",
 
         ],
         "Releases": [
@@ -108,6 +108,27 @@
             }
         ],
         "PackageID":"com.romlayvn.Passcode"
+        },
+        {
+            "Name": "ShanghaiV1",
+            "Author":{
+                "Label":"P0s3id0n,Romlay"
+            },
+            "Description": "Change Fonts",
+            "Category":"Fonts",
+            "Caption":"Change Fonts, Keycaps, keycapspad, PhoneKeycaps.",
+            "MinIOSVersion":"14.0",
+            "MaxIOSVersion":"16.6b1",
+            "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/font.png",
+            "HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+            "Screenshot":[" " ],
+            "Releases":[
+                {"Version":"1.0",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/Fonts/Com.romlayvn.shanghai.misaka",
+                 "Description":"New Change Passcode"
+                }
+            ],
+            "PackageID":"com.romlayvn.ShanghaiV1"   
         }
         
     ]
