@@ -87,29 +87,8 @@
             }
         ],
         "PackageID": "com.romlayvn.LSUI15"
-        },
-        {
-        "Name": "LSUI 16",
-        "Author":{
-                "Label":"Reym,Romlay"
-            },
-        "Description": "Change Camera and Flash",
-        "Category": " LSUI 16",
-        "Caption": "Change Camera and Flash",
-        "MinIOSVersion": "14.0",
-        "MaxIOSVersion": "16.6b1",
-        "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/lsui2.png",
-        "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-        "Screenshot": [ "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/LSui.jpg"],
-        "Releases": [
-            {"Version": "1.0",
-             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.romlayvn.lsui16.misaka",
-             "Description": "New LockScreen UI"
-                }
-            ],
-        "PackageID": "com.romlayvn.LSUI16"    
-        },
-        {
+        },  
+        {  
         "Name": "PassCode",
         "Author":{
             "Label":"Reym,Romlay"
@@ -129,27 +108,6 @@
             }
         ],
         "PackageID":"com.romlayvn.Passcode"
-        },
-        {
-            "Name": "ShanghaiV1",
-            "Author":{
-                "Label":"P0s3id0n,Romlay"
-            },
-            "Description": "Change Fonts",
-            "Category":"Fonts",
-            "Caption":"Change Fonts, Keycaps, keycapspad, PhoneKeycaps.",
-            "MinIOSVersion":"14.0",
-            "MaxIOSVersion":"16.6b1",
-            "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/font.png",
-            "HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-            "Screenshot":[" " ],
-            "Releases":[
-                {"Version":"1.0",
-                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/Fonts/Com.romlayvn.shanghai.misaka",
-                 "Description":"New Change Passcode"
-                }
-            ],
-            "PackageID":"com.romlayvn.ShanghaiV1"   
         }
         
     ]
