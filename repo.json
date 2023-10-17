@@ -79,7 +79,7 @@
         "MaxIOSVersion": "16.6b1",
         "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/lsui2.png",
         "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-        "Screenshot": [ "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.romlayvn.lsui16.misaka"],
+        "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/LSui.jpg"],
         "Releases": [
             {"Version": "1.0",
              "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2014-16/com.romlayvn.LSUI15.misaka",
