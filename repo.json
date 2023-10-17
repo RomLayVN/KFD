@@ -21,7 +21,7 @@
         {
             "Name": "Fonts Board",
             "Author":{
-                "Label":"Ryem, Romlay."
+                "Label":"Reym, Romlay."
             },
             "Description": "Fonts Board",
             "Category": "Fonts Board",
@@ -46,7 +46,7 @@
         {            
         "Name": "Assistive Touch ",
         "Author":{
-            "Label":"Ryem, Romlay."
+            "Label":"Reym, Romlay."
         },
         "Description": "Give Assistive Touch a new look",
         "Category": "Assistive Touch",
@@ -70,7 +70,7 @@
         {
         "Name": "LSUI 14-16",
         "Author":{
-            "Label":"Ryem,Romlay"
+            "Label":"Reym,Romlay"
         },
         "Description": "Change Camera and Flash",
         "Category": " LSUI 14-16",
@@ -91,14 +91,14 @@
         {
         "Name": "PassCode",
         "Author":{
-            "Label":"Ryem,Romlay"
+            "Label":"Reym,Romlay"
         },
         "Description": "Change Passcode",
         "Category":"PassCode",
         "Caption":"Change Passcode Name",
         "MinIOSVersion":"14.0",
         "MaxIOSVersion":"16.6b1",
-        "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/lock.png",
+        "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/pass.mov",
         "HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
         "Screenshot":[ ],
         "Releases":[
