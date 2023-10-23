@@ -51,7 +51,7 @@
         "Description": "Change Camera and Flash",
         "Category": " LSUI 15-16",
         "Caption": "Change Camera and Flash",
-        "MinIOSVersion": "14.0",
+        "MinIOSVersion": "15.0",
         "MaxIOSVersion": "16.6b1",
         "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/lsui2.png",
         "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
