@@ -18,30 +18,6 @@
         "ViewCount": true
     },
     "RepositoryContents": [
-        {
-            "Name": "Fonts Board",
-            "Author":{
-                "Label":"Reym, Romlay."
-            },
-            "Description": "Fonts Board",
-            "Category": "Fonts Board",
-            "Caption": "Change font options",
-            "MinIOSVersion": "14.0",
-            "MaxIOSVersion": "16.6b1",
-            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/keyboard2.jpg",
-            "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-            "Screenshot": [
-                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/board1.jpeg",
-                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/board2.jpeg"],
-            "Releases": [
-                {
-                    "Version": "1.0",
-                    "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ControlCenter/com.reym.Fontboard.misaka",
-                    "Description": "New Release"
-                }
-            ],
-            "PackageID": "com.romlayvn.FontsBoard"
-        },
         {            
         "Name": "Assistive Touch ",
         "Author":{
