@@ -38,7 +38,7 @@
             {
                 "Version": "2.0",
                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/AssistiveTouch/com.phucreym.nut-home-ao.misaka",
-                "Description": "New Release"
+                "Description": "New Assistive Touch For Iphone"
             }
         ],
         "PackageID": "com.romlayvn.AssistiveTouch"
@@ -76,7 +76,7 @@
         "MaxIOSVersion":"16.6b1",
         "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/pass.gif",
         "HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-        "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/pass.jpg" ,"https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/pass2.jpg" ],
+        "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/pass.jpg" ,"https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/pass2.jpeg"],
         "Releases":[
             {"Version":"2.0",
              "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/Passcode/Pascode.misaka.misaka",
