@@ -12,7 +12,11 @@
                 {
                     "Label": "Twitter",
                     "Link": "https://twitter.com/BoiBoiSenki"
-                }
+                },
+                {
+                    "Label":"Telegram",
+                    "Link":"https://t.me/romlayvn"
+                }      
             ]
         },
         "ViewCount": true
@@ -21,7 +25,17 @@
         {            
         "Name": "Assistive Touch ",
         "Author":{
-            "Label":"Reym, Romlay."
+            "Label":"Reym, Romlay.",
+            "Links":[
+                {
+                    "Label":"Reym",
+                    "Link":"https://t.me/phucreym"
+                },
+                {
+                    "Label":"RomLayVN",
+                    "Link":"https://t.me/romlayvn"
+                }
+            ]
         },
         "Description": "Give Assistive Touch a new look",
         "Category": "Assistive Touch",
@@ -46,7 +60,17 @@
         {
         "Name": "LSUI 15-16",
         "Author":{
-            "Label":"Reym,Romlay"
+            "Label":"Reym,Romlay",
+            "Links":[
+                {
+                    "Label":"Reym",
+                    "Link":"https://t.me/phucreym"
+                },
+                {
+                    "Label":"RomLayVN",
+                    "Link":"https://t.me/romlayvn"
+                }
+            ]
         },
         "Description": "Change Camera and Flash",
         "Category": " LSUI 15-16",
@@ -67,7 +91,17 @@
         {  
         "Name": "PassCode",
         "Author":{
-            "Label":"Reym,Romlay"
+            "Label":"Reym,Romlay",
+            "Links":[
+                {
+                    "Label":"Reym",
+                    "Link":"https://t.me/phucreym"
+                },
+                {
+                    "Label":"RomLayVN",
+                    "Link":"https://t.me/romlayvn"
+                }
+            ]
         },
         "Description": "Change Passcode",
         "Category":"PassCode",
@@ -84,7 +118,34 @@
             }
         ],
         "PackageID":"com.romlayvn.Passcode"
-        }
+        },
+        {
+            "Name": "Fonts Clock 16",
+            "Author":{
+                "Label":"RomLayVN",
+                "Links":[
+                    {
+                        "Label":"RomLayVN",
+                        "Link":"https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts For Ios 16",
+            "Category": "Clock Fonts",
+            "Caption": "Change Clock Fonts",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6b1",
+            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock2.png",
+            "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+            "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/clock1.jpg"],
+            "Releases": [
+                {"Version": "1.0",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlayvn.clockfonts.misaka",
+                 "Description": "New Clock Fonts"
+                }
+            ],
+            "PackageID": "com.RomLayVN.ClockFonts"
+            }
         
     ]
 }
