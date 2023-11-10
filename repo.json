@@ -141,6 +141,33 @@
                 }
             ],
             "PackageID": "com.RomLayVN.ClockFonts"
+            },
+{
+            "Name": "Fonts Clock 16",
+            "Author":{
+                "Label":"RomLayVN",
+                "Links":[
+                    {
+                        "Label":"RomLayVN",
+                        "Link":"https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts Ios 16",
+            "Category": "Clock Fonts",
+            "Caption": "Bring iOS 17 clock fonts to iOS 16",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6b1",
+            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock2.png",
+            "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+            "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/iOs17-2.jpg"],
+            "Releases": [
+                {"Version": "1.0",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlay.clockios17.misaka",
+                 "Description": "New Clock Fonts"
+                }
+            ],
+            "PackageID": "com.RomLayVN.ClockFonts"
             }
         
     ]
