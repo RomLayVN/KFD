@@ -169,7 +169,7 @@
             ],
             "PackageID": "com.RomLayVN.ClockIos17"
             },
- {
+ 	   {
             "Name": "LS Rabbit",
             "Author":{
                 "Label":"RomLayVN",
@@ -194,7 +194,8 @@
                  "Description": "New Clock Fonts"
                 }
             ],
-            "PackageID": "com.RomLayVN.LSRabbit"        
+            "PackageID": "com.RomLayVN.LSRabbit"
+          }
     ]
 }
 
