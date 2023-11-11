@@ -73,7 +73,7 @@
         "Caption": "Change Camera and Flash",
         "MinIOSVersion": "15.0",
         "MaxIOSVersion": "16.6b1",
-        "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/lsui2.png",
+        "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/lsui3.png",
         "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
         "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/LSui.jpg"],
         "Releases": [
@@ -131,7 +131,7 @@
             "Caption": "Change Clock Fonts",
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.6b1",
-            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock2.png",
+            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
             "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
             "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/clock1.jpg"],
             "Releases": [
@@ -158,7 +158,7 @@
             "Caption": "Bring iOS 17 clock fonts to iOS 16",
             "MinIOSVersion": "16.0",
             "MaxIOSVersion": "16.6b1",
-            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock2.png",
+            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
             "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
             "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/iOs17-2.jpg"],
             "Releases": [
