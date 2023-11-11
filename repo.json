@@ -187,7 +187,7 @@
             "MaxIOSVersion": "16.6b1",
             "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
             "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-            "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ls15.jpg"],["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ls151.jpg"]
+            "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ls15.jpg","https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ls151.jpg"],
             "Releases": [
                 {"Version": "1.0",
                  "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlayvn.lsrabbit.misaka",
@@ -195,7 +195,7 @@
                 }
             ],
             "PackageID": "com.RomLayVN.LSRabbit"
-          }
+        }
     ]
 }
 
