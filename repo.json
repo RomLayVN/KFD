@@ -195,6 +195,33 @@
                 }
             ],
             "PackageID": "com.RomLayVN.LSRabbit"
+        },
+        {
+            "Name": "LS Buble",
+            "Author":{
+                "Label":"RomLayVN",
+                "Links":[
+                    {
+                        "Label":"RomLayVN",
+                        "Link":"https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts Ios 15-16",
+            "Category": "Clock Fonts",
+            "Caption": "✓ New Clock Font For Ios 15-16.",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.6b1",
+            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
+            "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+            "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/buble.png"],
+            "Releases": [
+                {"Version": "1.0",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlayvn.lsbuble.misaka",
+                 "Description": "New Clock Fonts"
+                }
+            ],
+            "PackageID": "com.RomLayVN.LSBuble"
         }
     ]
 }
