@@ -222,7 +222,34 @@
                 }
             ],
             "PackageID": "com.RomLayVN.LSBuble"
-        }
+        },
+         {
+            "Name": "LS16 Book",
+            "Author":{
+                "Label":"RomLayVN",
+                "Links":[
+                    {
+                        "Label":"RomLayVN",
+                        "Link":"https://t.me/romlayvn"
+                    }
+                ]
+            },
+            "Description": "Change Clock Fonts For Ios 16",
+            "Category": "Clock Fonts",
+            "Caption": "Change Clock Fonts",
+            "MinIOSVersion": "16.0",
+            "MaxIOSVersion": "16.6b1",
+            "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
+            "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+            "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/book.png"],
+            "Releases": [
+                {"Version": "1.0",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlayvn.lsbook.misaka",
+                 "Description": "New Clock Fonts"
+                }
+            ],
+            "PackageID": "com.RomLayVN.LS16Book"
+            }
     ]
 }
 
