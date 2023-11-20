@@ -188,9 +188,9 @@
             "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
             "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
             "Screenshot":[
+                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/bunny.PNG",
                 "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ls15.jpg",
-                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ls151.jpg",
-                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/bunny.PNG"
+                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ls151.jpg"
                         ],
             "Releases": [
                 {"Version": "1.0",
