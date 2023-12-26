@@ -182,24 +182,22 @@
             },
             "Description": "Change Clock Fonts Ios 15-16",
             "Category": "Clock Fonts",
-            "Caption": "✓ New Clock Font For Ios 15-16. \n\n✓ Make by Ròm Lầy VN. \n\n✓New CLock Font Bunny v2.0",
+            "Caption": "✓ New Clock Font For Ios 15-16. \n\n✓ Make by Ròm Lầy VN. \n\n✓ Version v1.0 for iOS 15. \n\n✓ Version v2.0 for iOS 16",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.6b1",
             "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
             "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
             "Screenshot":[
-                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/bunny.PNG",
-                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ls15.jpg",
-                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ls151.jpg"
+                "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/bunny.PNG"
                         ],
             "Releases": [
                 {"Version": "1.0",
-                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.romlayvn.lsrabbit.misaka",
-                 "Description": "New Clock Fonts"
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LS15Bunny.misaka",
+                 "Description": "New Clock Font Bunny"
                 },
                 {
                     "Version":"2.0",
-                    "Package":"http://github.com/RomLayVN/KFD/raw/main/Tweak/LSUI%2015-16/com.romlayvn.lsbunny2.misaka",
+                    "Package":"http://github.com/RomLayVN/KFD/raw/main/Tweak/LockScreen/com.RomLayVN.LS16Bunny.misaka",
                     "Description":"New Clock Font Bunny"
 
                 }
