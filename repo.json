@@ -115,7 +115,7 @@
         ],
         "PackageID":"com.romlayvn.Passcode"
         },
-        {
+            {
             "Name": "Fonts Clock 16",
             "Author":{
                 "Label":"RomLayVN",
@@ -142,7 +142,7 @@
             ],
             "PackageID": "com.RomLayVN.ClockFonts"
             },
-	   {
+	        {
             "Name": "Fonts Clock 17",
             "Author":{
                 "Label":"RomLayVN",
@@ -169,7 +169,7 @@
             ],
             "PackageID": "com.RomLayVN.ClockIos17"
             },
- 	   {
+ 	        {
             "Name": "LS Bunny",
             "Author":{
                 "Label":"RomLayVN",
@@ -180,31 +180,25 @@
                     }
                 ]
             },
-            "Description": "Change Clock Fonts Ios 15-16",
+            "Description": "Change Clock Fonts Ios 15",
             "Category": "Clock Fonts",
-            "Caption": "✓ New Clock Font For Ios 15-16. \n\n✓ Make by Ròm Lầy VN. \n\n✓ Version v1.0 for iOS 15. \n\n✓ Version v2.0 for iOS 16",
+            "Caption": "✓ New Clock Font For Ios 15. \n\n✓ Make by Ròm Lầy VN.",
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.6b1",
+            "MaxIOSVersion": "15.7.1",
             "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
             "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
             "Screenshot":[
                 "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/bunny.PNG"
                         ],
             "Releases": [
-                {"Version": "1.0",
-                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LS15Bunny.misaka",
-                 "Description": "For iOs15"
-                },
                 {
-                    "Version":"2.0",
-                    "Package":"http://github.com/RomLayVN/KFD/raw/main/Tweak/LockScreen/com.RomLayVN.LS16Bunny.misaka",
-                    "Description":"For iOs16"
-
-                }
+                 "Version": "1.0",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LS15Bunny.misaka",
+                 "Description": "For iOs15"} 
             ],
-            "PackageID": "com.RomLayVN.LSBunny"
-        },
-        {
+            "PackageID": "com.RomLayVN.LS15Bunny"
+            },
+            {
             "Name": "LS Buble",
             "Author":{
                 "Label":"RomLayVN",
@@ -230,8 +224,8 @@
                 }
             ],
             "PackageID": "com.RomLayVN.LSBuble"
-        },
-         {
+            },
+            {
             "Name": "LS16 Book",
             "Author":{
                 "Label":"RomLayVN",
@@ -285,7 +279,38 @@
                     }
                 ],
                 "PackageID": "com.RomLayVN.LSStarNight"
-            }    
-    ]
-}
+            },
+            {
+                "Name": "LS16 Bunny",
+                "Author":{
+                    "Label":"RomLayVN",
+                    "Links":[
+                        {
+                            "Label":"RomLayVN",
+                            "Link":"https://t.me/romlayvn"
+                        }
+                    ]
+                },
+                "Description": "Change Clock Fonts Ios 15-16",
+                "Category": "Clock Fonts",
+                "Caption": "✓ New Clock Font For Ios 15-16. \n\n✓ Make by Ròm Lầy VN.",
+                "MinIOSVersion": "16.0",
+                "MaxIOSVersion": "16.6b1",
+                "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
+                "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+                "Screenshot":[
+                    "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/bunny.PNG"
+                            ],
+                "Releases": [
+                    {
+                        "Version":"2.0",
+                        "Package":"http://github.com/RomLayVN/KFD/raw/main/Tweak/LockScreen/com.RomLayVN.LS16Bunny.misaka",
+                        "Description":"For iOs16"
+    
+                    }
+                ],
+                "PackageID": "com.RomLayVN.LS16Bunny"   
+            }
+        ]
+} 
 
