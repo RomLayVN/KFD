@@ -193,12 +193,12 @@
             "Releases": [
                 {"Version": "1.0",
                  "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LS15Bunny.misaka",
-                 "Description": "New Clock Font Bunny"
+                 "Description": "For iOs15"
                 },
                 {
                     "Version":"2.0",
                     "Package":"http://github.com/RomLayVN/KFD/raw/main/Tweak/LockScreen/com.RomLayVN.LS16Bunny.misaka",
-                    "Description":"New Clock Font Bunny"
+                    "Description":"For iOs16"
 
                 }
             ],
