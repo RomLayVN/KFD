@@ -1,5 +1,5 @@
 {
-    "RepositoryName": "Ròm Lầy VN",
+    "RepositoryName": "⚡️Ròm Lầy⚡️",
     "RepositoryDescription": "Tweak MDC & KFD",
     "RepositoryAuthor": "RomLayVN",
     "RepositoryIcon": "https://github.com/RomLayVN/KFD/raw/main/Assets/avatarepo.gif",
@@ -47,7 +47,7 @@
         "Releases":[
             {
                 "Version": "2.0",
-                "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/AssistiveTouch/com.phucreym.nut-home-ao.misaka",
+                "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/AssistiveTouch/com.romlayvn.AssistiveTouch.misaka",
                 "Description": "New Assistive Touch For Iphone"
             }
         ],
@@ -78,7 +78,7 @@
         "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/LSui.jpg"],
         "Releases": [
             {"Version": "1.0",
-             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.reym.lsui%202.misaka",
+             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.Reym.LSUI15-16.misaka",
              "Description": "New LockScreen UI"
             }
         ],
@@ -109,7 +109,7 @@
         "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/pass.jpg" ,"https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/pass2.jpeg"],
         "Releases":[
             {"Version":"2.0",
-             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/Passcode/Pascode.misaka.misaka",
+             "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/Passcode/com.romlayvn.Passcode.misaka",
              "Description":"New Change Passcode"
             }
         ],
@@ -136,7 +136,7 @@
             "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/clock1.jpg"],
             "Releases": [
                 {"Version": "1.0",
-                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlayvn.clockfonts.misaka",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.ClockFonts.misaka",
                  "Description": "New Clock Fonts"
                 }
             ],
@@ -163,7 +163,7 @@
             "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/iOs17-2.jpg"],
             "Releases": [
                 {"Version": "1.0",
-                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlay.clockios17.misaka",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.ClockIos17.misaka",
                  "Description": "New Clock Fonts"
                 }
             ],
@@ -194,7 +194,7 @@
                         ],
             "Releases": [
                 {"Version": "1.0",
-                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlayvn.lsrabbit.misaka",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.romlayvn.lsrabbit.misaka",
                  "Description": "New Clock Fonts"
                 },
                 {
@@ -227,7 +227,7 @@
             "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/buble.PNG"],
             "Releases": [
                 {"Version": "1.0",
-                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlayvn.lsbuble.misaka",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LSBuble.misaka",
                  "Description": "New Clock Fonts"
                 }
             ],
@@ -254,7 +254,7 @@
             "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/book.PNG"],
             "Releases": [
                 {"Version": "1.0",
-                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlayvn.lsbook.misaka",
+                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LS16Book.misaka",
                  "Description": "New Clock Fonts"
                 }
             ],
@@ -282,7 +282,7 @@
                             "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/SN2.PNG"],
                 "Releases": [
                     {"Version": "1.0",
-                     "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LSUI%2015-16/com.romlayvn.LSstarnight.misaka",
+                     "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LSStarnight.misaka",
                      "Description": "New Clock Fonts"
                     }
                 ],
