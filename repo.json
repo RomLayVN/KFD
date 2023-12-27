@@ -291,9 +291,9 @@
                         }
                     ]
                 },
-                "Description": "Change Clock Fonts Ios 15-16",
+                "Description": "Change Clock Fonts Ios16",
                 "Category": "Clock Fonts",
-                "Caption": "✓ New Clock Font For Ios 15-16. \n\n✓ Make by Ròm Lầy VN.",
+                "Caption": "✓ New Clock Font For Ios16. \n\n✓ Make by Ròm Lầy VN.",
                 "MinIOSVersion": "16.0",
                 "MaxIOSVersion": "16.6b1",
                 "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
