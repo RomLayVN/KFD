@@ -274,7 +274,7 @@
                             "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/SN2.PNG"],
                 "Releases": [
                     {"Version": "1.0",
-                     "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LSStarnight.misaka",
+                     "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LSStarNight.misaka",
                      "Description": "New Clock Fonts"
                     }
                 ],
