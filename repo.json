@@ -319,15 +319,15 @@
                             "Label":"RomLayVN",
                             "Link":"https://t.me/romlayvn"
                         },
-			{
-				"Label":"p0s3id0n"
-				"Link": "https://t.me/p0s3id0n686"
-			}
+			            {
+				            "Label":"p0s3id0n"
+                            "Link":"https://t.me/p0s3id0n686"
+			            }
                     ]
                 },
                 "Description": "Change Clock Fonts Ios15",
                 "Category": "Clock Fonts",
-                "Caption": "✓ Make by p3s3id0n. \n\n✓ There are two options between fill and outline ",
+                "Caption": "✓ Make by p0s3id0n. \n\n✓ There are two options between fill and outline ",
                 "MinIOSVersion": "15.0",
                 "MaxIOSVersion": "15.7.1",
                 "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/clock.png",
