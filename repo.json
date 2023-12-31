@@ -313,16 +313,16 @@
 			{
                 "Name": "LS15 Eula",
                 "Author":{
-                    "Label":"p0s3id0n & RomLayVN",
+                    "Label":"p0s3id0n,RomLayVN",
                     "Links":[
                         {
+                            "Label":"p0s3id0n",
+                            "Link":"https://t.me/p0s3id0n686"
+                        },
+                        {   
                             "Label":"RomLayVN",
                             "Link":"https://t.me/romlayvn"
-                        },
-			            {
-				            "Label":"p0s3id0n"
-                            "Link":"https://t.me/p0s3id0n686"
-			            }
+                        }
                     ]
                 },
                 "Description": "Change Clock Fonts Ios15",
