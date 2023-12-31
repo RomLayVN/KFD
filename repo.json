@@ -18,9 +18,9 @@
         "ViewCount": true
     },
     "RepositoryContents": [
-        {            
-        "Name": "Assistive Touch ",
-        "Author":{
+			{            
+			"Name": "Assistive Touch ",
+			"Author":{
             "Label":"Reym, Romlay.",
             "Links":[
                 {
@@ -32,32 +32,32 @@
                     "Link":"https://t.me/romlayvn"
                 }
             ]
-        },
-        "Description": "Give Assistive Touch a new look",
-        "Category": "Assistive Touch",
-        "Caption": "Replace boring default Apple icons in Assistive Touch",
-        "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6b1",
-        "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/ass.jpg",
-        "HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-        "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass1.jpg",
+			},
+			"Description": "Give Assistive Touch a new look",
+			"Category": "Assistive Touch",
+			"Caption": "Replace boring default Apple icons in Assistive Touch",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6b1",
+			"Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/ass.jpg",
+			"HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+			"Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass1.jpg",
                     "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass2.jpg",
                     "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/ass3.jpg"
-        ],
-        "Releases":[
+					],
+			"Releases":[
             {
                 "Version": "2.0",
                 "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/AssistiveTouch/com.romlayvn.AssistiveTouch.misaka",
                 "Description": "New Assistive Touch For Iphone"
             }
-        ],
-        "PackageID": "com.romlayvn.AssistiveTouch"
-        },
-        {
-        "Name": "LSUI 15-16",
-        "Author":{
-            "Label":"Reym,Romlay",
-            "Links":[
+			],
+			"PackageID": "com.romlayvn.AssistiveTouch"
+			},
+			{
+			"Name": "LSUI 15-16",
+			"Author":{
+				"Label":"Reym,Romlay",
+				"Links":[
                 {
                     "Label":"Reym",
                     "Link":"https://t.me/reym9x"
@@ -66,29 +66,29 @@
                     "Label":"RomLayVN",
                     "Link":"https://t.me/romlayvn"
                 }
-            ]
-        },
-        "Description": "Change Camera and Flash",
-        "Category": " LSUI 15-16",
-        "Caption": "Change Camera and Flash",
-        "MinIOSVersion": "15.0",
-        "MaxIOSVersion": "16.6b1",
-        "Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/lsui3.png",
-        "HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-        "Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/LSui.jpg"],
-        "Releases": [
+				]
+				},
+			"Description": "Change Camera and Flash",
+			"Category": " LSUI 15-16",
+			"Caption": "Change Camera and Flash",
+			"MinIOSVersion": "15.0",
+			"MaxIOSVersion": "16.6b1",
+			"Icon": "https://github.com/RomLayVN/KFD/raw/main/Logo/lsui3.png",
+			"HeaderImage": "https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+			"Screenshot": ["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/LSui.jpg"],
+			"Releases": [
             {"Version": "1.0",
              "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.Reym.LSUI15-16.misaka",
              "Description": "New LockScreen UI"
             }
-        ],
-        "PackageID": "com.Reym.LSUI15-16"
-        },  
-        {  
-        "Name": "PassCode",
-        "Author":{
-            "Label":"Reym,Romlay",
-            "Links":[
+			],
+			"PackageID": "com.Reym.LSUI15-16"
+			},  
+			{  
+			"Name": "PassCode",
+				"Author":{
+				"Label":"Reym,Romlay",
+				"Links":[
                 {
                     "Label":"Reym",
                     "Link":"https://t.me/reym9x"
@@ -97,24 +97,24 @@
                     "Label":"RomLayVN",
                     "Link":"https://t.me/romlayvn"
                 }
-            ]
-        },
-        "Description": "Change Passcode",
-        "Category":"PassCode",
-        "Caption":"Change Passcode Name",
-        "MinIOSVersion":"15.0",
-        "MaxIOSVersion":"16.6b1",
-        "Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/pass.gif",
-        "HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
-        "Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/pass.jpg" ,"https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/pass2.jpeg"],
-        "Releases":[
+				]
+			},
+			"Description": "Change Passcode",
+			"Category":"PassCode",
+			"Caption":"Change Passcode Name",
+			"MinIOSVersion":"15.0",
+			"MaxIOSVersion":"16.6b1",
+			"Icon":"https://github.com/RomLayVN/KFD/raw/main/Logo/pass.gif",
+			"HeaderImage":"https://github.com/RomLayVN/KFD/raw/main/Logo/baner.gif",
+			"Screenshot":["https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/pass.jpg" ,"https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/pass2.jpeg"],
+			"Releases":[
             {"Version":"2.0",
              "Package": "https://github.com/RomLayVN/KFD/raw/main/Tweaks/Passcode/com.romlayvn.Passcode.misaka",
              "Description":"New Change Passcode"
             }
-        ],
-        "PackageID":"com.romlayvn.Passcode"
-        },
+			],
+			"PackageID":"com.romlayvn.Passcode"
+			},
             {
             "Name": "Fonts Clock 16",
             "Author":{
@@ -291,8 +291,8 @@
                         }
                     ]
                 },
-                "Description": "Change Clock Fonts Ios16",
-                "Category": "Clock Fonts",
+				"Description": "Change Clock Fonts Ios16",
+				"Category": "Clock Fonts",
                 "Caption": "✓ New Clock Font For Ios16. \n\n✓ Make by Ròm Lầy VN.",
                 "MinIOSVersion": "16.0",
                 "MaxIOSVersion": "16.6b1",
@@ -301,14 +301,13 @@
                 "Screenshot":[
                     "https://github.com/RomLayVN/KFD/raw/main/Tweaks/ScreenShot/bunny.PNG"
                             ],
-                "Releases": [
+                "Releases":	[
                     {
                         "Version":"1.0",
                         "Package":"http://github.com/RomLayVN/KFD/raw/main/Tweaks/LockScreen/com.RomLayVN.LS16Bunny.misaka",
                         "Description":"For iOs16"
-    
                     }
-                ],
+				],
                 "PackageID": "com.RomLayVN.LS16Bunny"   
             },
 			{
@@ -346,6 +345,6 @@
                 ],
                 "PackageID": "com.RomLayVN.LS15Eula"   
             }
-        ]
+		]
 }
 
