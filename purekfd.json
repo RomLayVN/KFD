@@ -1,0 +1,148 @@
+{
+    "spec":"1.0",
+    "repotype":"purekfdextended",
+    "name": "\u26a1\ufe0fR\u00f2m L\u1ea7y\u26a1\ufe0f",
+    "description": "Tweak MDC & KFD",
+    "icon": "Assets/avatarepo.gif",
+    "packages": [
+        {
+            "name": "Assistive Touch ",
+            "bundleid": "com.romlayvn.AssistiveTouch",
+            "author": "Reym, Romlay.",
+            "description": "Give Assistive Touch a new look",
+            "version": "2.0",
+            "long_description": "Replace boring default Apple icons in Assistive Touch",
+            "category": "Assistive Touch",
+            "icon": "Logo/ass.jpg",
+            "banner": "Logo/baner.gif",
+            "path": "Tweaks_purekfd/com.romlayvn.AssistiveTouch.purekfd",
+            "screenshots": [
+                "Tweaks/ScreenShot/ass1.jpg",
+                "Tweaks/ScreenShot/ass2.jpg",
+                "Tweaks/ScreenShot/ass3.jpg"
+            ]
+        },
+        {
+            "name": "LSUI 15-16",
+            "bundleid": "com.Reym.LSUI15-16",
+            "author": "Reym,Romlay",
+            "description": "Change Camera and Flash",
+            "version": "1.0",
+            "long_description": "Change Camera and Flash",
+            "category": " LSUI 15-16",
+            "icon": "Logo/lsui3.png",
+            "banner": "Logo/baner.gif",
+            "path": "Tweaks_purekfd/com.Reym.LSUI15-16.purekfd",
+            "screenshots": [
+                "Tweaks/ScreenShot/LSui.jpg"
+            ]
+        },
+        {
+            "name": "PassCode",
+            "bundleid": "com.romlayvn.Passcode",
+            "author": "Reym,Romlay",
+            "description": "Change Passcode",
+            "version": "2.0",
+            "long_description": "Change Passcode Name",
+            "category": "PassCode",
+            "icon": "Logo/pass.gif",
+            "banner": "Logo/baner.gif",
+            "path": "Tweaks_purekfd/com.romlayvn.Passcode.purekfd",
+            "screenshots": [
+                "Tweaks/ScreenShot/pass.jpg",
+                "Tweaks/ScreenShot/pass2.jpeg"
+            ]
+        },
+        {
+            "name": "Fonts Clock 16",
+            "bundleid": "com.RomLayVN.ClockFonts",
+            "author": "RomLayVN",
+            "description": "Change Clock Fonts For Ios 16",
+            "version": "1.0",
+            "long_description": "Change Clock Fonts",
+            "category": "Clock Fonts",
+            "icon": "Logo/clock.png",
+            "banner": "Logo/baner.gif",
+            "path": "Tweaks_purekfd/com.RomLayVN.ClockFonts.purekfd",
+            "screenshots": [
+                "Tweaks/ScreenShot/clock1.jpg"
+            ]
+        },
+        {
+            "name": "Fonts Clock 17",
+            "bundleid": "com.RomLayVN.ClockIos17",
+            "author": "RomLayVN",
+            "description": "Change Clock Fonts Ios 16",
+            "version": "1.0",
+            "long_description": "Bring iOS 17 clock fonts to iOS 16",
+            "category": "Clock Fonts",
+            "icon": "Logo/clock.png",
+            "banner": "Logo/baner.gif",
+            "path": "Tweaks_purekfd/com.RomLayVN.ClockIos17.purekfd",
+            "screenshots": [
+                "Tweaks/ScreenShot/iOs17-2.jpg"
+            ]
+        },
+        {
+            "name": "LS Buble",
+            "bundleid": "com.RomLayVN.LSBuble",
+            "author": "RomLayVN",
+            "description": "Change Clock Fonts Ios 15-16",
+            "version": "1.0",
+            "long_description": "\u2713 New Clock Font For Ios 15-16.",
+            "category": "Clock Fonts",
+            "icon": "Logo/clock.png",
+            "banner": "Logo/baner.gif",
+            "path": "Tweaks_purekfd/com.RomLayVN.LSBuble.purekfd",
+            "screenshots": [
+                "Tweaks/ScreenShot/buble.PNG"
+            ]
+        },
+        {
+            "name": "LS16 Book",
+            "bundleid": "com.RomLayVN.LS16Book",
+            "author": "RomLayVN",
+            "description": "Change Clock Fonts For Ios 16",
+            "version": "1.0",
+            "long_description": "Change Clock Fonts",
+            "category": "Clock Fonts",
+            "icon": "Logo/clock.png",
+            "banner": "Logo/baner.gif",
+            "path": "Tweaks_purekfd/com.RomLayVN.LS16Book.purekfd",
+            "screenshots": [
+                "Tweaks/ScreenShot/book.PNG"
+            ]
+        },
+        {
+            "name": "LS16 Star Night",
+            "bundleid": "com.RomLayVN.LSStarNight",
+            "author": "RomLayVN",
+            "description": "Change Clock Fonts For Ios 16",
+            "version": "1.0",
+            "long_description": "Change Clock Fonts",
+            "category": "Clock Fonts",
+            "icon": "Logo/clock.png",
+            "banner": "Logo/baner.gif",
+            "path": "Tweaks_purekfd/com.RomLayVN.LSStarNight.purekfd",
+            "screenshots": [
+                "Tweaks/ScreenShot/SN1.PNG",
+                "Tweaks/ScreenShot/SN2.PNG"
+            ]
+        },
+        {
+            "name": "LS16 Bunny",
+            "bundleid": "com.RomLayVN.LS16Bunny",
+            "author": "RomLayVN",
+            "description": "Change Clock Fonts Ios16",
+            "version": "1.0",
+            "long_description": "\u2713 New Clock Font For Ios16. \n\n\u2713 Make by R\u00f2m L\u1ea7y VN.",
+            "category": "Clock Fonts",
+            "icon": "Logo/clock.png",
+            "banner": "Logo/baner.gif",
+            "path": "Tweaks_purekfd/com.RomLayVN.LS16Bunny.purekfd",
+            "screenshots": [
+                "Tweaks/ScreenShot/bunny.PNG"
+            ]
+        }
+    ]
+}
